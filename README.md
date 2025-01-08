@@ -1,0 +1,2 @@
+# MongoDB $inc Operator Update Failure
+This repository demonstrates a common error encountered when using the `$inc` operator in MongoDB update queries. The provided `bug.js` file shows the erroneous code that results in unexpected behavior. The corrected code, which handles edge cases and ensures accurate updates, is provided in the `bugSolution.js` file.
